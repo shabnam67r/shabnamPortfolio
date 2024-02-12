@@ -18,13 +18,12 @@ function App() {
     <Home/>
     <About/>
     {/* <Pricing /> */}
-
     <Services/>
     <Resume />
-    <Portfolio />
+    {/* <Portfolio /> */}
     {/* <Testimonials /> */}
     {/* <Blog /> */}
-    <Contact />
+    {/* <Contact /> */}
 
   </main>
   </>

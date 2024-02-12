@@ -7,24 +7,18 @@ const data = [
   {
     id: 1,
     image: image1,
-    title: "Front End Developer",
+    title:`Front End Developer . \n 
+     (React.js | JavaScript | Typescript | Next.js | |Redux | MUI)  `,
     description:
       "Developed a project that was similar to editing text and grammar mistakes in Turkish language  and Developed a project related ot buying and seling coins and currency",
   },
   {
     id: 2,
     image: image2,
-    title: "Mobile Developer",
+    title: "Mobile Developer . \n  ReactNative | Javascript",
     description:
       "Developed a project that was similar to editing text and grammar mistakes in Turkish language  and Developed a project related ot buying and seling coins and currency",
-  },
-  {
-    id: 3,
-    image: image3,
-    title: "Mobile Developer",
-    description:
-      "Developed a project that was similar to editing text and grammar mistakes in Turkish language  and Developed a project related ot buying and seling coins and currency",
-  },
+  }
 ];
 
 function Services() {

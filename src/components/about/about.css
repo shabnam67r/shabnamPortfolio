@@ -1,5 +1,5 @@
 .about__container{
-    grid-template-columns: 3fr 9fr;
+    grid-template-columns: 6fr 9fr;
     column-gap: 1.875rem;
 }
 
@@ -103,7 +103,7 @@
 
 @media screen and (max-width:768px){
     .about__container{
-      grid-template-columns: 350px;
+      grid-template-columns: 650px;
     }
   .about__data::before{
     left: 47% ;
